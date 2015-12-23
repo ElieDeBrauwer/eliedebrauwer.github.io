@@ -1,0 +1,12 @@
+title: eliedebrauwer.github.io
+email: eliedebrauwer@gmail.com
+author: "Elie De Brauwer"
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" 
+url: "http://eliedebrauwer.github.io" 
+twitter_username: eliedebrauwer
+github_username:  eliedebrauwer
+
+# Build settings
+markdown: kramdown
